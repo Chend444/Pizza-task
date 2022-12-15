@@ -1,0 +1,17 @@
+{
+  "name": "pizza",
+  "version": "1.0.0",
+  "description": "pizzaria pipeline",
+  "main": "index.js",
+  "scripts": {
+    "test": "run dev",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "pizza"
+  },
+  "author": "chend",
+  "license": "ISC",
+  "dependencies": {}
+}
